@@ -1,0 +1,4 @@
+-repackageclasses
+-allowaccessmodification
+-dontwarn androidx.window.extensions.**
+-dontwarn androidx.window.sidecar.**
